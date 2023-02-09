@@ -1,1 +1,1 @@
-
+A task: Explore the sales funnel. Find out how users reach a purchase. How many users reach the purchase, and how many get stuck on the previous steps, on which ones. examine the results of the A/A/B experiment and decide whether the font in the application is worth me. Find out which font is best.
